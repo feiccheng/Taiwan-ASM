@@ -1,0 +1,70 @@
+[PROJECT]
+
+[RP:UNTITLED_1]
+1=
+
+[RP:WHEREISDATA]
+1=
+
+[RP:AA_CLIMATESCENARIOS]
+1=
+
+[OPENWINDOW_1]
+MAXIM=0
+TOP=5
+LEFT=60
+HEIGHT=785
+WIDTH=1580
+
+[RP:REPORT_INLOOP]
+1=
+
+[RP:DATA_SET_ALL]
+1=
+
+[RP:MODEL_STRUCTURE]
+1=
+
+[RP:CAL_CROP]
+1=
+
+[RP:CAL_LIVEPROC]
+1=
+
+[RP:DATA_PROC]
+1=
+
+[RP:ALLOFIT]
+1=
+
+[RP:SCENARIOS_DATA]
+1=
+
+[RP:AAA]
+1=s=.\t\a1
+2=
+
+[RP:REPORT_CLIMATE]
+1=
+
+[RP:MODEL_FORTHISSTUDY]
+1=r=.\t\a1 s=.\t\a2
+2=r=.\t\a1
+3=
+
+[RP:REPORT_LOCAL]
+1=
+
+[RP:AA_SCENARIO_COMP]
+1=r=.\t\a2
+
+[MRUFILES]
+1=G:\My Drive\Taiwan\tasm_new\study\Pyrolysis_subsidy\report_local.gms
+2=G:\My Drive\Taiwan\tasm_new\study\Pyrolysis_subsidy\model_forthisstudy.lst
+3=G:\My Drive\Taiwan\tasm_new\study\Pyrolysis_subsidy\model_forthisstudy.gms
+4=G:\My Drive\Taiwan\tasm_new\study\Pyrolysis_subsidy\aaa.lst
+5=G:\My Drive\Taiwan\tasm_new\study\Pyrolysis_subsidy\aaa.gms
+6=G:\My Drive\Taiwan\tasm_new\study\Pyrolysis_subsidy\aa_scenario_comp.lst
+7=G:\My Drive\Taiwan\tasm_new\study\Pyrolysis_subsidy\aa_scenario_comp.gms
+8=G:\My Drive\Taiwan\tasm_new\source\scenarios_data.gms
+9=G:\My Drive\Taiwan\tasm_new\source\report_inloop.gms
